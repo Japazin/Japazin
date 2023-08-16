@@ -1,8 +1,9 @@
 
  <div>
-  <a href="https://github.com/Japazin">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Japazin&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Japazin&layout=compact&langs_count=7&theme=synthwave"/>
+  <a href="https://github.com/Japazin">  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Japazin&theme=dark&show_icons=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Japazin&layout=compact&langs_count=7&theme=dark"/>
+
 </div>
 
  <div style="display: inline_block"><br>
@@ -18,7 +19,6 @@
     
 </div>
  
-  ![Snake animation](https://github.com/Igorx8/Igorx8/blob/output/github-contribution-grid-snake.svg)
 
 
 
