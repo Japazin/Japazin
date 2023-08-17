@@ -1,8 +1,8 @@
 
  <div>
   <a href="https://github.com/Japazin">  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Japazin&theme=dark&show_icons=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Japazin&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Japazin&show_icons=true&theme=dark">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Japazin&hide_progress=true"/>
 
 </div>
 
